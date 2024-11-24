@@ -1,6 +1,6 @@
 # My Experience at the ICANN ASO Information Session 🌍  
 
-On **November 24, 2024**, I had the opportunity to participate remotely in the ICANN Address Supporting Organization (ASO) Information Session via Zoom. This session was focused on the proposed updates to the **ICP-2** document, which outlines how Regional Internet Registries (RIRs) are governed, operate, and remain accountable.  
+On **November 12, 2024**, I had the opportunity to participate remotely in the ICANN Address Supporting Organization (ASO) Information Session via Zoom. This session focused on the proposed updates to the **ICP-2** document, which outlines how Regional Internet Registries (RIRs) are governed, operate, and remain accountable.  
 
 This blog captures my takeaways, questions, and how you can get involved in shaping the future of Internet governance.
 
