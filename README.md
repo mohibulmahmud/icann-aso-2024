@@ -6,6 +6,20 @@ This blog captures my takeaways, questions, and how you can get involved in shap
 
 ---
 
+## Participants  
+
+The session was attended by members of the ICANN community, ASO representatives, and Regional Internet Registry (RIR) stakeholders. Key participants included:  
+
+- **Moderator:** Ozan (Participation Manager for the session)  
+- **Presenters:**
+  - **Hervé Clément:** Address Supporting Organization Address Council (ASO AC) member, who introduced the session and provided background on ICP-2.  
+  - **Kevin Blumberg:** ASO AC member, who delivered a detailed presentation on the updated ICP-2 principles.  
+  - **Hans Petter Holen:** Chair of the NRO Executive Council (NRO EC), who provided insights into RIR governance and addressed questions related to support for struggling RIRs.  
+
+Their contributions helped provide clarity on the goals of the ICP-2 update and its impact on the Internet ecosystem.  
+
+---
+
 ## Why Update ICP-2?  
 
 The **ICP-2 document**, originally created in 2001, has served as a guide for recognizing and managing RIRs. However, with advancements in technology, governance, and the evolving Internet ecosystem, an update was long overdue. The new version aims to:  
@@ -23,16 +37,16 @@ The updates are designed to strengthen the Internet’s backbone while ensuring 
 During the session, I had the opportunity to ask a few important questions. Here’s what I learned:  
 
 1. **How will the updates improve accountability for RIRs?**  
-   - New principles like transparency, audits, and continuity plans will hold RIRs to higher standards and ensure they remain accountable to their communities.  
+   - **Answered by Kevin Blumberg:** New principles like transparency, audits, and continuity plans will hold RIRs to higher standards and ensure they remain accountable to their communities.  
 
 2. **What role does the Internet community play in monitoring accountability?**  
-   - Transparency mechanisms, like published records and independent audits, will allow the community to keep track of RIR activities. Community input is critical for improving these updates.  
+   - **Answered by Kevin Blumberg:** Transparency mechanisms, such as published records and independent audits, will allow the community to keep track of RIR activities. Community input is critical for improving these updates.  
 
 3. **What happens if an RIR doesn’t meet the criteria?**  
-   - ICANN and other RIRs have pledged to provide support, including financial and operational assistance, to help struggling RIRs meet the requirements. Derecognition would only be considered as a last resort.  
+   - **Answered by Hans Petter Holen:** ICANN and other RIRs have pledged to provide support, including financial and operational assistance, to help struggling RIRs meet the requirements. Derecognition would only be considered as a last resort.  
 
 4. **Are there ideas missing from the update?**  
-   - ICANN welcomes community feedback! If there are additional principles that could improve accountability, now is the time to share them through the public comment process.  
+   - **Answered by Kevin Blumberg:** ICANN welcomes community feedback! If there are additional principles that could improve accountability, now is the time to share them through the public comment process.  
 
 ---
 
